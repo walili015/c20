@@ -1,0 +1,14 @@
+{
+  "AdsController": {
+    "adNetwork": "ironsource",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+	"isAppId": "19cd88085"
+  }
+}

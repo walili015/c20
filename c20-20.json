@@ -9,6 +9,7 @@
     "testMode": false,
     "unityBanner": "",
     "unityInterstitial": "",
+	    "RatingActive": true,
 	"isAppId": "19cd88085"
   }
 }

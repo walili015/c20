@@ -3,12 +3,10 @@
     "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
-    "applovinBanner": "2dd721efe5d6bcc6",
-    "applovinInterstitial": "65858bf08e4ca81a",
-    "unityGameId": "",
-    "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": "",
-	"isAppId": "19cd88085"
+    "AdmobNative": "",
+    "applovinBanner": "11111111BANNER",
+    "applovinInterstitial": "222222INTERSTITUA",
+    "ApplovinNative": "333333Native",
+    "RatingActive": true
   }
 }
